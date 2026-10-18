@@ -8,4 +8,4 @@ Personal net worth on your phone: assets, loans, insurance and money lent and bo
 Your data stays on your device.
 
 - [Privacy Policy / Политика конфиденциальности](privacy/)
-- Contact: agasef.memmedli@gmail.com
+- Contact: mmaries221@gmail.com

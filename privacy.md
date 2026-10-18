@@ -10,7 +10,7 @@ permalink: /privacy/
 ## Русский
 
 **Политика конфиденциальности Worthmark**
-Последнее обновление: 11 октября 2026. Разработчик: Agasef Memmedli. Связь: agasef.memmedli@gmail.com.
+Последнее обновление: 18 октября 2026. Разработчик: Agasef Memmedli. Связь: mmaries221@gmail.com.
 
 Worthmark — приложение для учёта личного капитала: активы, кредиты, страховки, долги людям и вам.
 У приложения нет своего сервера и нет своей учётной записи. Мы не продаём данные и не показываем
@@ -109,7 +109,7 @@ Android класса «сильная», BIOMETRIC_STRONG). PIN хранится
 даёте переключателем на первом экране и можете отозвать в любой момент в «Настройки › Безопасность и
 данные»: отправка сразу прекращается, неотправленные отчёты удаляются.
 Копия в Google Drive — по вашему выбору (вход через Google). Вы можете запросить доступ к данным
-или их удаление, возразить против обработки (выключив переключатель или написав на agasef.memmedli@gmail.com) и
+или их удаление, возразить против обработки (выключив переключатель или написав на mmaries221@gmail.com) и
 подать жалобу в надзорный орган по защите данных вашей страны. Учтите: у разработчика нет данных,
 по которым можно найти вас, — ваши записи хранятся у вас, а копия — в вашем Google Drive.
 
@@ -117,14 +117,14 @@ Android класса «сильная», BIOMETRIC_STRONG). PIN хранится
 
 **8. Изменения.** Новая версия политики публикуется по этой же ссылке с новой датой.
 
-**9. Связь.** Вопросы и запросы — agasef.memmedli@gmail.com.
+**9. Связь.** Вопросы и запросы — mmaries221@gmail.com.
 
 ---
 
 ## English
 
 **Worthmark Privacy Policy**
-Last updated: October 11, 2026. Developer: Agasef Memmedli. Contact: agasef.memmedli@gmail.com.
+Last updated: October 18, 2026. Developer: Agasef Memmedli. Contact: mmaries221@gmail.com.
 
 Worthmark is a personal net worth app: assets, loans, insurance, and money lent and borrowed. The
 app has no server of its own and no account of its own. We do not sell data and show no ads.
@@ -219,7 +219,7 @@ to and processed in the USA and other countries.
 with the switch on the welcome screen and can withdraw it at any time in Settings › Security and
 data: sending stops at once and unsent reports are deleted. The Google Drive
 copy is your choice (signing in with Google). You can request access to or deletion of data, object
-to processing (by turning the switch off or writing to agasef.memmedli@gmail.com) and complain to the data protection
+to processing (by turning the switch off or writing to mmaries221@gmail.com) and complain to the data protection
 authority of your country. Note: the developer holds no data that identifies you — your records are
 kept by you, and the copy is in your Google Drive.
 
@@ -227,4 +227,4 @@ kept by you, and the copy is in your Google Drive.
 
 **8. Changes.** A new version of this policy is published at the same link with a new date.
 
-**9. Contact.** Questions and requests — agasef.memmedli@gmail.com.
+**9. Contact.** Questions and requests — mmaries221@gmail.com.
